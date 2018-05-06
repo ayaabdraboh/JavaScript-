@@ -1,0 +1,160 @@
+body{
+    width:99.4%;
+    height:740px;
+    background: url('../images/5copy.jpg') no-repeat;
+    background-size: cover;
+    color:#FFF;
+    text-align:center;
+}
+
+h1{
+    margin:0;
+    padding-top:60px;
+    margin-bottom:2%;
+    font-size:45px;
+    font-family: Raleway, sans-serif;
+    font-weight: 300;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.form form{
+    width: 450px;
+    height:470px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    padding: 3% 0px;
+    /* background-color: rgba(255, 255, 255, 0.31); */
+    background-color: rgba(6, 5, 5, 0.33);
+    box-shadow: 10px 3px 66px -19px rgba(0,0,0,0.75)
+}
+
+.form form span h2 {
+    font-family: Raleway, sans-serif;
+    font-weight:600;
+    font-size:26px;
+    letter-spacing:3px;
+    margin-top:4px;
+    margin-bottom:40px
+}
+
+.form form .login .icons {
+    text-align:left;
+}
+
+.form form .login .icons h2 {
+    font-family:"Open Sans", sans-serif;
+    font-weight:400;
+    font-size: 13px;
+    margin: 20px 0px 8px 15px;
+    letter-spacing:2px;
+    position:relative;
+    left:50px;
+    top:1px;
+
+}
+
+.form form .login .icons input{
+    font-family:"Open Sans", sans-serif;
+    font-weight:400;
+    font-size: 13px;
+    padding: 12px 15px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(87, 102, 103, 0.59);
+    color: white;
+    width: 75%;
+    letter-spacing: 1px;
+    position:relative;
+    left:52px;
+    top:3px;
+}
+
+.form form .login .icons input:last-of-type{
+    margin-bottom:5px;
+}
+
+.form form .login .icons input:hover{
+    border:1px solid #DDD
+}
+
+.form form .login .btn .a{
+    text-decoration:none;
+    color: #efbb42;
+    font-weight:400;
+    font-size:15px;
+    font-family: "Open Sans", sans-serif;
+    position:relative;
+    left:126px;
+    top:27px;
+    letter-spacing:1px;
+}
+
+.form form .login .btn button[type="submit"] {
+    padding: 9px 60px;
+    border-radius: 25px;
+    border:none;
+    width:75%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing:1px;
+    margin: 20px auto;
+    background-color:transparent;
+    cursor:pointer;
+    border: 1px solid #4f5d61;
+    color:#FFF;
+    position:relative;
+    left:0px;
+    top:20px;
+}
+
+.form form .login .btn button:hover{
+    color: #fff;
+    background-color: rgba(0, 245, 255, 0.69);
+
+}
+
+
+.form form .login .btn .agile-icons {
+    padding: 3% 0px;
+    position:relative;
+    left:0px;
+    top:20px;
+
+}
+
+.form form .login .btn .agile-icons span.fa{
+    font-size: 12px;
+    margin: auto 10px;
+    color: #fff;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 50%;
+    background-color: rgba(243, 249, 249, 0.22);
+}
+
+
+
+footer p{
+    text-align: center;
+    padding: 0px 0px;
+    color:#FFF;
+    margin-top: 2%;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    font-weight:400;
+    font-size:13px
+}
+
+footer a{
+    color: aqua;
+    text-decoration: none;
+}
+    
+footer a:hover {
+    color: yellow;
+}
